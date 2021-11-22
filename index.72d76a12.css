@@ -11,7 +11,8 @@
 }
 
 a {
-  color: #67d0d6
+  color: #67d0d6;
+  text-decoration: none;
 }
 
 img {
@@ -164,8 +165,8 @@ img {
   justify-content: space-between
 }
 
-.first-block_text, .image {
-  width: 47%
+.image {
+  width: 40%
 }
 
 .first-block_text p {
